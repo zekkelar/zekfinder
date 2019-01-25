@@ -1,2 +1,4 @@
 # zekfinder
-ppppppppPPPppppppppPPPppp
+- pip install requests
+- python zekfind.py
+
